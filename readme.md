@@ -16,7 +16,7 @@ I leverage over a decade of experience in influence, rapport, and behavioral tri
 ---
 
 ## Certifications
-* **CSEDP (Merit):** Certified Social Engineering Defense Professional.
+* **CSEDP (Merit):** Certified Social Engineering Defense Practitioner.
 * **CMA:** Certified Management Accountant (Focus on Strategic Risk).
 
 ---
