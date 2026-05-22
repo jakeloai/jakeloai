@@ -6,6 +6,8 @@ Focused on scalable asset discovery workflows, exposure analysis, reconnaissance
 
 Research interests include adversary reconnaissance methodology, exposed infrastructure analysis, attack surface expansion, and discovery automation.
 
+<img width="3440" height="1440" alt="Initial Access" src="https://github.com/user-attachments/assets/25558ad6-cc2b-42ac-bbef-059cd075c88e" />
+
 ## Projects
 
 * [BlackSecurity](https://github.com/jakeloai/BlackSecurity) — offensive reconnaissance and security automation workflows.
