@@ -1,5 +1,7 @@
 # Jake Lo
 
+## Exploit-driven offensive security focused on initial access and real exposure, not compliance checklists or Nessus-monkey button-pushing.
+
 Offensive Security Operator specializing in reconnaissance automation, external attack surface analysis, and infrastructure discovery.
 
 Focused on scalable asset discovery workflows, exposure analysis, reconnaissance pipelines, and operational mapping across modern external environments.
@@ -10,7 +12,17 @@ Research interests include adversary reconnaissance methodology, exposed infrast
 
 ## Projects
 
+<img width="1720" height="720" alt="BlackSecurity" src="https://github.com/user-attachments/assets/40455a97-e056-49d7-8d5c-9e612ab342d4" />  
+
+An open-source offensive security orchestration framework designed to simulate high-fidelity adversaries. This suite moves past standard compliance verification to test real-world organization resilience against real threat vectors.
+
 * [BlackSecurity](https://github.com/jakeloai/BlackSecurity) — offensive reconnaissance and security automation workflows.
+
+## Global Legal Constraints and Compliance
+
+This repository is maintained globally for authorized infrastructure validation campaigns, simulation operations, and professional red team portfolio tracking. All execution scenarios must be limited to computing systems under the direct ownership of the operator or explicitly authorized via a formal, written Rules of Engagement (RoE) agreement.
+
+Unauthorized usage across production assets or external infrastructure without proper management sign-off violates global cybercrime frameworks, including the Computer Misuse Act (UK), Computer Fraud and Abuse Act (US), Section 27A of the Telecommunications Ordinance (Hong Kong), and equivalent international computer misuse statutes. The developer assumes no liability for administrative misuse, structural infrastructure impact, regulatory penalties, data degradation, or criminal infractions resulting from deployment.
 
 ---
 
