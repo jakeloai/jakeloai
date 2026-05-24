@@ -10,20 +10,6 @@ Research interests include adversary reconnaissance methodology, exposed infrast
 
 <img width="3440" height="1440" alt="Initial Access" src="https://github.com/user-attachments/assets/25558ad6-cc2b-42ac-bbef-059cd075c88e" />
 
-## Projects
-
-<img width="1720" height="720" alt="BlackSecurity" src="https://github.com/user-attachments/assets/40455a97-e056-49d7-8d5c-9e612ab342d4" />  
-
-An open-source offensive security orchestration framework designed to simulate high-fidelity adversaries. This suite moves past standard compliance verification to test real-world organization resilience against real threat vectors.
-
-* [BlackSecurity](https://github.com/jakeloai/BlackSecurity) — offensive reconnaissance and security automation workflows.
-
-## Global Legal Constraints and Compliance
-
-This repository is maintained globally for authorized infrastructure validation campaigns, simulation operations, and professional red team portfolio tracking. All execution scenarios must be limited to computing systems under the direct ownership of the operator or explicitly authorized via a formal, written Rules of Engagement (RoE) agreement.
-
-Unauthorized usage across production assets or external infrastructure without proper management sign-off violates global cybercrime frameworks, including the Computer Misuse Act (UK), Computer Fraud and Abuse Act (US), Section 27A of the Telecommunications Ordinance (Hong Kong), and equivalent international computer misuse statutes. The developer assumes no liability for administrative misuse, structural infrastructure impact, regulatory penalties, data degradation, or criminal infractions resulting from deployment.
-
 ---
 
 ## Featured Methodology: 2026 Red Team Initial Access Workflow
