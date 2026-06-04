@@ -1,13 +1,10 @@
 # Jake Lo
 
-## Offensive Security Researcher & Automator
+## Recon-Driven Researcher & Pipeline Automator
 
 ### Technical Focus
 
-Exploit-driven offensive security specialist focused on **initial access, automated reconnaissance, and real-world infrastructure exposure**. Moving beyond compliance checklists to prioritize actionable vulnerability hunting and attack surface analysis.
-
-* **Core Competencies:** Scalable asset discovery, infrastructure mapping, automated exploitation pipelines, and supply chain security.
-* **Methodology:** "Glue-code" developer, synthesizing open-source tools via Bash and Python for high-fidelity reconnaissance.
+Recon-driven specialist focused on automated reconnaissance, infrastructure exposure mapping, and attack surface reduction. Moving beyond passive compliance checklists to prioritize actionable vulnerability discovery and real-world asset hardening.
 
 ---
 
