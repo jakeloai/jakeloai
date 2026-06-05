@@ -49,7 +49,7 @@ A highly efficient, automation-friendly technical reconnaissance pipeline design
 
 <img width="3440" height="1440" alt="BlackSecurity" src="https://github.com/user-attachments/assets/6c4fd6f5-7894-423e-a5d8-fb0225445dcf" />
 
-An open-source offensive security orchestration framework designed to simulate high-fidelity adversaries. The suite provides modular tools (BlackTrack, BlackDork, BlackExploit, etc.) to test organizational resilience against emerging threat vectors.
+The BlackSecurity Suite is an elite, high-velocity collection of automated reconnaissance engines and attack surface mapping utilities built for modern penetration testing, red teaming, and bug bounty workflows. Engineered around a strict recon-driven philosophy, this suite moves past passive, static compliance checklists to actively discover exposed assets, hunt configuration flaws, isolate high-value backend anomalies, and harden critical enterprise infrastructure.
 
 * **Repository:** [BlackSecurity Suite](https://github.com/jakeloai/BlackSecurity/)
 
