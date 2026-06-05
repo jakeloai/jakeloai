@@ -57,7 +57,7 @@ An open-source offensive security orchestration framework designed to simulate h
 
 ## Vulnerability Research Lab
 
-<img width="3440" height="1440" alt="Vulnerability Research Lab" src="https://github.com/user-attachments/assets/b2acf6d6-f5de-4523-ae97-81d4e40d8a28" />
+<img width="3440" height="1440" alt="Vulnerability Research Lab" src="https://github.com/user-attachments/assets/29e43896-a90d-41c6-a14b-84481805cac8" />
 
 Professional security research findings, proof-of-concept exploits, and responsible vulnerability disclosure documentation.
 
