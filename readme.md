@@ -10,7 +10,7 @@ Recon-driven specialist focused on automated reconnaissance, infrastructure expo
 
 ## 2026 Red Team Initial Access Workflow
 
-<img width="3440" height="1440" alt="Initial Access" src="https://github.com/user-attachments/assets/25558ad6-cc2b-42ac-bbef-059cd075c88e" />
+<img width="3440" height="1440" alt="Initial Access  " src="https://github.com/user-attachments/assets/6e331a18-faab-42b0-abe7-b9c0b3ae09e8" />
 
 A highly efficient, automation-friendly technical reconnaissance pipeline designed for modern penetration testing and red teaming. This workflow bypasses traditional social engineering to focus exclusively on technical infrastructure, cloud environments, and application logic.
 
