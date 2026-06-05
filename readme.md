@@ -47,7 +47,7 @@ A highly efficient, automation-friendly technical reconnaissance pipeline design
 
 ## BlackSecurity Suite
 
-<img width="1720" height="720" alt="BlackSecurity" src="https://github.com/user-attachments/assets/40455a97-e056-49d7-8d5c-9e612ab342d4" />  
+<img width="3440" height="1440" alt="BlackSecurity" src="https://github.com/user-attachments/assets/6c4fd6f5-7894-423e-a5d8-fb0225445dcf" />
 
 An open-source offensive security orchestration framework designed to simulate high-fidelity adversaries. The suite provides modular tools (BlackTrack, BlackDork, BlackExploit, etc.) to test organizational resilience against emerging threat vectors.
 
