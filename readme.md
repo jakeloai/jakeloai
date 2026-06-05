@@ -8,7 +8,7 @@ Recon-driven specialist focused on automated reconnaissance, infrastructure expo
 
 ---
 
-## 2026 Red Team Initial Access Workflow
+## Initial-Access-Workflow
 
 <img width="3440" height="1440" alt="Initial Access  " src="https://github.com/user-attachments/assets/6e331a18-faab-42b0-abe7-b9c0b3ae09e8" />
 
