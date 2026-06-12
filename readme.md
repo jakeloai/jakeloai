@@ -1,10 +1,10 @@
 # Jake Lo
 
-## Recon-Driven Researcher & Pipeline Automator
+## Web Exploitation Specialist & Penetration Testing Specialist
 
 ### Technical Focus
 
-Recon-driven specialist focused on automated reconnaissance, infrastructure exposure mapping, and attack surface reduction. Moving beyond passive compliance checklists to prioritize actionable vulnerability discovery and real-world asset hardening.
+A hands-on offensive security specialist focused on manual web exploitation, network penetration testing, and automated reconnaissance. 
 
 ---
 
