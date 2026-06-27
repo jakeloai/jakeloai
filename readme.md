@@ -1,4 +1,4 @@
-# Jake Lo
+# Jake Lo | From HK | ADHD | Whitehat | eWPT | eWPTX (in progress)
 
 ### Specialized Manual Security Researcher | Web Application Exploitation Specialist
 
