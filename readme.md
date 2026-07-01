@@ -1,4 +1,4 @@
-# Jake Lo | From HK | ADHD | Whitehat | eWPT | eWPTX (in progress)
+# Jake Lo | From HK | ADHD | Whitehat | eWPT | eWPTXv3
 
 ### Web Exploitation Specialist
 
@@ -18,7 +18,7 @@ I do not engineer kernel exploits. I do not reverse engineer binaries. My attack
 
 ## Validated Credentials
 
-- **INE eWPTX** (Certified Web Penetration Tester Extreme) — *In Progress*
+- **INE eWPTXv3** (Certified Web Penetration Tester Extreme) — *Completed*
 - **INE eWPT** (Certified Web Penetration Tester) — *Completed*
 
 ---
